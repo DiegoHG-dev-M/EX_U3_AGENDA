@@ -1,7 +1,7 @@
 services:
 
   app:
-    image: diegomrs/agenda:1.0.0
+    image: diegomrs/agenda:latest
 
     deploy:
       replicas: 2
